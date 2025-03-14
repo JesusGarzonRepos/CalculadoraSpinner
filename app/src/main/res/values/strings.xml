@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculadoraSpinner</string>
+    <string name="Resultado">Resultado</string>
+    <string name="Calcular">Calcular</string>
+    <string-array name="Operaciones">
+        <item>sumar</item>
+        <item>Restar</item>
+        <item>Multiplicar</item>
+        <item>Dividir</item>
+    </string-array>
+</resources>
